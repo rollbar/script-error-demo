@@ -13,4 +13,4 @@ How to use (instructions should work for OS X or Linux):
 4. Open a terminal and cd into the directory where this repo is. Run `python -m SimpleHTTPServer 8080`
 5. Open another terminal window and cd into the directory where this repo is. Run `python -m SimpleHTTPServer 8081`
 6. In your browser, navigate to `http://localhost:8080`.
-7. Click the button and watch what happens in the console.
+7. Click the buttons and watch what happens in the console.
